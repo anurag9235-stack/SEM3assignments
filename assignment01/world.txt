@@ -1,0 +1,3 @@
+This is a large text file.
+Node.js file system experiment.
+This file is being used to compare synchronous and asynchronous file reading.
